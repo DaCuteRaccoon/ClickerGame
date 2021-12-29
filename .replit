@@ -1,0 +1,5 @@
+# https://docs.replit.com/programming-ide/configuring-repl
+
+language = "html"
+run = ["cargo", "run"]
+entrypoint = "index.html"
