@@ -1,4 +1,4 @@
-# ClickerGame
+# [ClickerGame](https://dacuteraccoon.github.io/ClickerGame/)
 <!--
 [![Followers](https://img.shields.io/github/followers/DaCuteRaccoon?label=Follow%20Me&style=social)](https://github.com/DaCuteRaccoon/)
 [![Forks](https://img.shields.io/github/forks/DaCuteRaccoon/ClickerGame?label=Fork%20This%20Repo&style=social)](https://github.com/DaCuteRaccoon/ClickerGame/fork/)
