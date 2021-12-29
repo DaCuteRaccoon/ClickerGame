@@ -1,0 +1,32 @@
+* {
+  font: 16px Helvectica, sans-serif;
+  /* background-color: #FF0000;
+  background-color: forestgreen;
+  background: url(https://example.com/foo/bar/image.svg); */
+  background: white;
+  /* cursor: wait;
+  cursor:crosshair; */
+}
+
+
+
+
+
+
+
+
+
+/*
+../fonts/font.*
+
+
+@ font-face {
+  font-family: ms-sans-serif;
+  src: url(../MICROSS.ttf);
+}
+
+.sans {
+  font-family: ms-sans-serif;
+}
+
+*/
